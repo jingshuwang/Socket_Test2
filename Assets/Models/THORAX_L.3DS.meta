@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 0865cafe99d1743eb8653289c29e1414
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: CARTILGL
+    100002: CERVICL1
+    100004: CERVICL2
+    100006: CERVICL3
+    100008: CERVICL4
+    100010: CERVICL5
+    100012: CERVICL6
+    100014: CERVICL7
+    100016: LUMBARL1
+    100018: LUMBARL2
+    100020: LUMBARL3
+    100022: LUMBARL4
+    100024: LUMBARL5
+    100026: RIBSL
+    100028: STERNML
+    100030: //RootNode
+    100032: toraciL1
+    100034: toraciL2
+    100036: toraciL3
+    100038: toraciL4
+    100040: TORACIL5
+    100042: TORACIL6
+    100044: TORACIL7
+    100046: TORACIL8
+    100048: TORACIL9
+    100050: TORACL10
+    100052: TORACL11
+    100054: 'TORACL12 '
+    400000: CARTILGL
+    400002: CERVICL1
+    400004: CERVICL2
+    400006: CERVICL3
+    400008: CERVICL4
+    400010: CERVICL5
+    400012: CERVICL6
+    400014: CERVICL7
+    400016: LUMBARL1
+    400018: LUMBARL2
+    400020: LUMBARL3
+    400022: LUMBARL4
+    400024: LUMBARL5
+    400026: RIBSL
+    400028: STERNML
+    400030: //RootNode
+    400032: toraciL1
+    400034: toraciL2
+    400036: toraciL3
+    400038: toraciL4
+    400040: TORACIL5
+    400042: TORACIL6
+    400044: TORACIL7
+    400046: TORACIL8
+    400048: TORACIL9
+    400050: TORACL10
+    400052: TORACL11
+    400054: 'TORACL12 '
+    2100000: liso
+    2100002: rugoso
+    2100004: RIB01
+    2100006: THOCRTLG
+    2100008: RIB011
+    2300000: CARTILGL
+    2300002: CERVICL1
+    2300004: CERVICL2
+    2300006: CERVICL3
+    2300008: CERVICL4
+    2300010: CERVICL5
+    2300012: CERVICL6
+    2300014: CERVICL7
+    2300016: LUMBARL1
+    2300018: LUMBARL2
+    2300020: LUMBARL3
+    2300022: LUMBARL4
+    2300024: LUMBARL5
+    2300026: RIBSL
+    2300028: STERNML
+    2300030: toraciL1
+    2300032: toraciL2
+    2300034: toraciL3
+    2300036: toraciL4
+    2300038: TORACIL5
+    2300040: TORACIL6
+    2300042: TORACIL7
+    2300044: TORACIL8
+    2300046: TORACIL9
+    2300048: TORACL10
+    2300050: TORACL11
+    2300052: 'TORACL12 '
+    3300000: CARTILGL
+    3300002: CERVICL1
+    3300004: CERVICL2
+    3300006: CERVICL3
+    3300008: CERVICL4
+    3300010: CERVICL5
+    3300012: CERVICL6
+    3300014: CERVICL7
+    3300016: LUMBARL1
+    3300018: LUMBARL2
+    3300020: LUMBARL3
+    3300022: LUMBARL4
+    3300024: LUMBARL5
+    3300026: RIBSL
+    3300028: STERNML
+    3300030: toraciL1
+    3300032: toraciL2
+    3300034: toraciL3
+    3300036: toraciL4
+    3300038: TORACIL5
+    3300040: TORACIL6
+    3300042: TORACIL7
+    3300044: TORACIL8
+    3300046: TORACIL9
+    3300048: TORACL10
+    3300050: TORACL11
+    3300052: 'TORACL12 '
+    4300000: LUMBARL5
+    4300002: LUMBARL4
+    4300004: LUMBARL3
+    4300006: LUMBARL2
+    4300008: LUMBARL1
+    4300010: 'TORACL12 '
+    4300012: TORACL11
+    4300014: TORACL10
+    4300016: TORACIL9
+    4300018: TORACIL8
+    4300020: TORACIL7
+    4300022: TORACIL6
+    4300024: TORACIL5
+    4300026: toraciL4
+    4300028: toraciL3
+    4300030: toraciL2
+    4300032: toraciL1
+    4300034: CERVICL7
+    4300036: CERVICL6
+    4300038: CERVICL5
+    4300040: CERVICL4
+    4300042: CERVICL3
+    4300044: CERVICL2
+    4300046: CERVICL1
+    4300048: RIBSL
+    4300050: CARTILGL
+    4300052: STERNML
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

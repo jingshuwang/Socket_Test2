@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/JNJ.unity
+    guid: f7e9a056641184341aa70903d091193f
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 9c57c41c6da5943dabdba8611fb762cd
+  - enabled: 1
+    path: Assets/Scenes/Sync.unity
+    guid: 8459a143a514142cfba5c9d9480643a8
+  - enabled: 1
+    path: Assets/Scenes/SyncSucceed.unity
+    guid: c0bee0fb00b3d4b75bd816d49ed7f69d
+  - enabled: 1
+    path: Assets/Scenes/RelatedStories.unity
+    guid: 159ce256895584e6ab45a35bb5d8646c
+  - enabled: 1
+    path: Assets/Scenes/Models.unity
+    guid: e192bb55f79374105895e1e2834615e7
+  - enabled: 1
+    path: Assets/Scenes/ModelComparison.unity
+    guid: c75a6afc4f8924eb7831f3f0e37d1728
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: f10cd86b332f344ce8a6c2221e88fa82
